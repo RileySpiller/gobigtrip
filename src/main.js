@@ -1,3 +1,5 @@
+require("./main.css");
+
 setTimeout(function(){
 
 	$(document).ready(function() {
